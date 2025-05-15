@@ -1,4 +1,9 @@
+# Other
+Main.java
+
 # Compiled class file
+build
+build/*
 *.class
 
 # Log file
@@ -11,7 +16,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear

@@ -1,2 +1,28 @@
 # JsonParser
-A Java JsonParser i made because i did not found early enough a similar one so... here it is
+A Java Json parser i made because i did not found early enough a similar one so... here it is.
+
+### About
+
+So, here is my JsonParser, feel free to use it, broke it, etc.
+Just report to me if you ever found any bug or issue, please. Or if you have any improvments ideas. Or ideas.
+Also, i'd like to give this litle project a name : please create a ticket if you think of a good one !
+
+### Use
+
+(i'll make a doc i promise)
+
+### License
+
+Under the `Apache 2.0` license, feel free to use, copy and modify this.
+
+### Next version content
+
+* Version 0.2 : (wip)
+	* Can now modify data in fields and Json objects
+	* Can now create Json objects from Serializable Classes
+
+### Changelogs
+
+* Version 0.1 : dated 2025-05-15
+	* First version pushed on git (yeah!)
+	* Need some tests before a first release...
