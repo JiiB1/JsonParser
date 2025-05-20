@@ -62,7 +62,7 @@ public class DottedPath {
      */
     public void removeFirstNode() {
         if (! path.isEmpty()) {
-            path.removeFirst();
+            path.remove(0);
         }
     }
 
