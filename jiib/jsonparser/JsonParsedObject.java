@@ -1,11 +1,11 @@
-package jsonparser;
+package jiib.jsonparser;
 
 import java.lang.reflect.Constructor;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import jsonparser.util.DottedPath;
+import jiib.jsonparser.util.DottedPath;
 
 /**
  * The representation of a Json object, containing a collection of named fields
@@ -62,7 +62,7 @@ public class JsonParsedObject {
      * 
      * @param   path    The path (in the tree structure) of the field to be returned
      * @return  The searched field, or null
-     * @see     jsonparser.util.DottedPath
+     * @see     jiib.jsonparser.util.DottedPath
      */
     public JsonParsedField getField(DottedPath path) {
         if (path.isEmpty()) throw new IllegalArgumentException("Empty path");

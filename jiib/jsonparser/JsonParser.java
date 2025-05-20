@@ -1,10 +1,10 @@
-package jsonparser;
+package jiib.jsonparser;
 
 import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import jsonparser.util.Pair;
+import jiib.jsonparser.util.Pair;
 
 /**
  * A class used to parse Json expressions
@@ -23,7 +23,7 @@ public class JsonParser {
      * 
      * @param   json    The Json expression to parse
      * @return  The root Json object of the tree
-     * @see     jsonparser.JsonParsedObject
+     * @see     jiib.jsonparser.JsonParsedObject
      */
     public static JsonParsedObject parse(String json) {
         String expression = json.trim();

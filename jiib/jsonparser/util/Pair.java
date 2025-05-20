@@ -1,4 +1,4 @@
-package jsonparser.util;
+package jiib.jsonparser.util;
 
 /**
  * A simple Pair class

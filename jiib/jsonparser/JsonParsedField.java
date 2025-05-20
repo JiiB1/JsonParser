@@ -1,11 +1,11 @@
-package jsonparser;
+package jiib.jsonparser;
 
 /**
  * The representation of a Json field.
  * Is contained in a JsonParsedObject, and contains its own name, its value, and its value type. 
  * 
  * @author  <a href="https://github.com/JiiB1">JiiB</a> (JiiB1 on GitHub)
- * @see     jsonparser.JsonParsedObject
+ * @see     jiib.jsonparser.JsonParsedObject
  */
 public class JsonParsedField {
 

@@ -1,4 +1,4 @@
-package jsonparser.util;
+package jiib.jsonparser.util;
 
 import java.util.ArrayList;
 import java.util.List;
