@@ -17,9 +17,11 @@ Under the `Apache 2.0` license, feel free to use, copy and modify this.
 
 ### Next version content
 
+* Version 0.3 : (standby for v0.2)
+	* Can now create Json objects from java Classes
+
 * Version 0.2 : (wip)
 	* Can now modify data in fields and Json objects
-	* Can now create Json objects from Serializable Classes
    	* Replacing DottePath for a Json query system, used to perform more accurate queries on wanted fields
 
 ### Changelogs
