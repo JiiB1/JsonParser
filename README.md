@@ -26,7 +26,7 @@ Under the `Apache 2.0` license, feel free to use, copy and modify this.
 
 ### Changelogs
 
-_You can seem more detailed changelogs on this repo wiki : [here](https://github.com/JiiB1/JsonParser/wiki/Changelogs)
+_You can seem more detailed changelogs on this repo wiki : [here](https://github.com/JiiB1/JsonParser/wiki/Changelogs)_
 
 * Version 0.1 : dated 2025-05-15
 	* First version pushed on git (yeah!)
