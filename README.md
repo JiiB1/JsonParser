@@ -9,7 +9,7 @@ Also, i'd like to give this litle project a name : please create a ticket if you
 
 ### Use
 
-(i'll make a doc i promise)
+A documentation will soon be available on this repo wiki : [here](https://github.com/JiiB1/JsonParser/wiki/Documentation)
 
 ### License
 
@@ -25,6 +25,8 @@ Under the `Apache 2.0` license, feel free to use, copy and modify this.
    	* Replacing DottePath for a Json query system, used to perform more accurate queries on wanted fields
 
 ### Changelogs
+
+_You can seem more detailed changelogs on this repo wiki : [here](https://github.com/JiiB1/JsonParser/wiki/Changelogs)
 
 * Version 0.1 : dated 2025-05-15
 	* First version pushed on git (yeah!)
