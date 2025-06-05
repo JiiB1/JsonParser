@@ -1,11 +1,10 @@
-# JsonParser
-A Java Json parser i made because i did not found early enough a similar one so... here it is.
+# JJson (JiiB Json)
+A Java pacakge of divers usefull classes to manipulate Json i made because i did not found early enough a similar one so... here it is.
 
 ## About
 
 So, here is my JsonParser, feel free to use it, broke it, etc.
 Just report to me if you ever found any bug or issue, please. Or if you have any improvments ideas. Or ideas.
-Also, i'd like to give this litle project a name : please create a ticket if you think of a good one !
 
 ## Use
 
